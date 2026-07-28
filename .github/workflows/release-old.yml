@@ -1,4 +1,4 @@
-name: Release Obsidian plugin
+name: Release Obsidian plugin old
 
 env:
   PLUGIN_NAME: smart-connections # Change this to match the id of your plugin.
